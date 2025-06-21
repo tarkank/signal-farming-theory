@@ -13,5 +13,3 @@
 - [Glossary](#glossary)
 - [Appendix: Consciousness and the Dark Sector](#appendix-consciousness-and-the-dark-sector)
 - [References](#references)
-
-→ Edits? [Open an issue](https://github.com/YOURUSERNAME/signal-farming-theory/issues)
